@@ -1,4 +1,4 @@
 {
     "workspaceFolder": "azdo",
-    "postCreateCommand": "git clone https://dev.azure.com/rcronald/rcronald/_git/web-app azdo"
+    "postCreateCommand": "git clone https://rcronald@dev.azure.com/rcronald/rcronald/_git/web-app azdo"
 }
